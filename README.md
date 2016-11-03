@@ -9,18 +9,12 @@ made by Nora ([@Stereoarts](https://twitter.com/stereoarts), which directly writ
 
 [Stereoarts Homepage](http://stereoarts.jp/)
 
-[@Stereoarts tweet](https://twitter.com/Stereoarts/status/647737666520248321?ref_src=twsrc%5Etfw): I’ve released a Theta Shader Pack. A shader for converting THETA / THETA S full sphere video to Enquirectangular in Unity and supporting scripts. [GitHub](https://github.com/theta360developers/unity-streaming/tree/master/stereoarts)
-
-[original zipped archive](stereoarts.jp/ThetaShaderPack_20150926.zip )
+[@Stereoarts tweet](https://twitter.com/Stereoarts/status/647737666520248321?ref_src=twsrc%5Etfw): I’ve released a Theta Shader Pack. A shader for converting THETA / THETA S full sphere video to Enquirectangular in Unity and supporting scripts. [Download](https://github.com/theta360developers/unity-streaming/tree/master/stereoarts)
 
 For this article, I wanted to jot down my techniques as well.
 
-Sample
-
-[GitHub](https://github.com/theta360developers/unity-streaming/tree/master/goroman)
-[Original](https://dl.dropboxusercontent.com/u/7131835/Programs/ThetaS_LiveView_Sample.unitypackage)
-
-Example of taking a video with THETA
+[Download Sample](https://github.com/theta360developers/unity-streaming/tree/master/goroman)
+Example of taking video with the THETA
 
 When taking a video with m15, the circles overlapped. The THETA S gives beautifully separated spheres. The angle covered in one sphere is slightly larger than 180 degrees.
 
