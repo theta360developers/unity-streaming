@@ -261,7 +261,6 @@ Conclusion
 
 It looks like there’s the possibility of multiple fun topics here like spherical AR and Stabilization. After the THETA S goes on sale, I would love to play with it more.
 
-Update March 9, 2016
 
 ## Maya Planar UV Mapping Instruction
 
@@ -269,6 +268,6 @@ Thanks to [@hecomi](https://twitter.com/hecomi) for providing this video that sh
 the UV mapping. He produced it to help Flex van Geuns who was trying to use the
 UV mapping with webgl.
 
-{% include youtubePlayer.html id="FfhZltDqJ2U" %}
+[Watch the Video](https://www.youtube.com/watch?v=FfhZltDqJ2U)
 
 ![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/unity-streaming)
